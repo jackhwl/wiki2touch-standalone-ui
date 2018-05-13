@@ -1,2 +1,1 @@
-+*.M linguist-language=C++
-+*.H linguist-language=C++
+daemon/* linguist-vendored
